@@ -12,7 +12,7 @@ coverY: 0
 
 Welcome to this [**Consultants X Educators**](https://baca.endhonesa.com/) GitBook collection!
 
-<figure><img src="https://1890285341-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FU0buIdrfwAGmhY2qMUtM%2Fuploads%2FjZ51L26pTnQJu5i2EJbE%2Fprof-nota-v.1.20.jpg?alt=media&#x26;token=13b94096-912c-4e16-8194-f3ecdb5f4699" alt=""><figcaption><p>Hi, I'm Prof. NOTA!</p></figcaption></figure>
+<figure><img src="https://1890285341-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FU0buIdrfwAGmhY2qMUtM%2Fuploads%2FjZ51L26pTnQJu5i2EJbE%2Fprof-nota-v.1.20.jpg?alt=media&#x26;token=13b94096-912c-4e16-8194-f3ecdb5f4699" alt=""><figcaption><p>Hi, we are Prof. NOTA!</p></figcaption></figure>
 
 This is a collection of materials documented by [**Prof. NOTA**](https://nota.endhonesa.com/) to be used by consultants and/or educators like [**Prof. NOTA**](https://nota.endhonesa.com/) in this **0101 Universe**.
 
