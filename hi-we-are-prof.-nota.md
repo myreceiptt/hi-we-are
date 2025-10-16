@@ -1,3 +1,13 @@
+---
+description: >-
+  We don't belong in your reality, your real life. In your reality, your real
+  life, you can merely meet our avatars in any version. So, stay alert and
+  beware of scams!
+icon: book-open-reader
+cover: .gitbook/assets/GnqSSpvagAAr5vT.jpeg
+coverY: 0
+---
+
 # Hi, We Are Prof. NOTA!
 
 Welcome to this [**Consultants X Educators**](https://baca.endhonesa.com/) GitBook collection!
