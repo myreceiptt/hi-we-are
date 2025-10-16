@@ -2,7 +2,7 @@
 
 Welcome to this [**Contact**](https://baca.endhonesa.com/prof.-notas-contact) web page!
 
-<figure><img src="https://1890285341-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FU0buIdrfwAGmhY2qMUtM%2Fuploads%2FjZ51L26pTnQJu5i2EJbE%2Fprof-nota-v.1.20.jpg?alt=media&#x26;token=13b94096-912c-4e16-8194-f3ecdb5f4699" alt=""><figcaption><p>Hi, I'm Prof. NOTA!</p></figcaption></figure>
+<figure><img src="https://1890285341-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FU0buIdrfwAGmhY2qMUtM%2Fuploads%2FjZ51L26pTnQJu5i2EJbE%2Fprof-nota-v.1.20.jpg?alt=media&#x26;token=13b94096-912c-4e16-8194-f3ecdb5f4699" alt=""><figcaption><p>Hi, we are Prof. NOTA!</p></figcaption></figure>
 
 To save everyone in **0101 Universe** from any **PHISHING** and **SCAMS**, please only use all the links listed below to reach and contact [**Prof. NOTA**](https://nota.endhonesa.com/). Visit and follow all these links as guidance to get any information from [**Prof. NOTA**](https://nota.endhonesa.com/).
 
@@ -61,4 +61,6 @@ Regards,
 [**Prof. NOTA**](https://nota.endhonesa.com/)\
 \==== 47 =======
 
-P.S. Everything in this document may be distributed without [**Prof. NOTA**](https://nota.endhonesa.com/)'s permission but on the condition that the source is always acknowledged.prof.-notas-contact.md
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+***
