@@ -1,10 +1,10 @@
 # Hi, We Are Prof. NOTA!
 
-Welcome to this [**Tutors X Educators**](https://app.gitbook.com/o/NPgwIhduqQPcS27tyJvV/s/U0buIdrfwAGmhY2qMUtM/) GitBook collection!
+Welcome to this [**Consultants X Educators**](https://baca.endhonesa.com/) GitBook collection!
 
 <figure><img src="https://1890285341-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FU0buIdrfwAGmhY2qMUtM%2Fuploads%2FjZ51L26pTnQJu5i2EJbE%2Fprof-nota-v.1.20.jpg?alt=media&#x26;token=13b94096-912c-4e16-8194-f3ecdb5f4699" alt=""><figcaption><p>Hi, I'm Prof. NOTA!</p></figcaption></figure>
 
-This is a collection of educational materials by [**Prof. NOTA**](https://nota.endhonesa.com/) to be used by tutors or educators like [**Prof. NOTA**](https://nota.endhonesa.com/) in this **0101 Universe**.
+This is a collection of materials documented by [**Prof. NOTA**](https://nota.endhonesa.com/) to be used by consultants and/or educators like [**Prof. NOTA**](https://nota.endhonesa.com/) in this **0101 Universe**.
 
 Just take a look at the screenshot below to find available material...
 
@@ -17,4 +17,6 @@ Regards,
 [**Prof. NOTA**](https://nota.endhonesa.com/)\
 \==== 47 =======
 
-P.S. Everything in this document may not be distributed without [**Prof. NOTA**](https://nota.endhonesa.com/)'s permission, but the link to this document may be shared without  [**Prof. NOTA**](https://nota.endhonesa.com/)'s permission.
+P.S. Read this document freely for information and guidance. Do not redistribute or restate—no quotes, summaries, paraphrases, or derivatives—without prior written permission from [**Prof. NOTA**](https://nota.endhonesa.com/). Sharing the link is allowed. So, share the link, not the text. Do not discuss or re-tell the contents in any form—written, spoken, or recorded—without prior written permission.
+
+***
